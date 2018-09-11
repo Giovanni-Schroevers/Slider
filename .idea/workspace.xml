@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef43002c-be80-47b4-944b-d44e003c2703" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Public/Slideshow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Public/stylesheets/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/Slideshow.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Slideshow.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +36,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="320" />
-          <entry key="JavaScript" value="740" />
+          <entry key="JavaScript" value="865" />
           <entry key="SCSS" value="185" />
         </counts>
       </usages-collector>
@@ -56,7 +53,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="320" />
-          <entry key="js" value="740" />
+          <entry key="js" value="865" />
           <entry key="scss" value="185" />
         </counts>
       </usages-collector>
@@ -76,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Public/Slideshow.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-152">
-              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state relative-caret-position="494">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -204,12 +201,12 @@
       <updated>1536574085746</updated>
       <workItem from="1536574087121" duration="3309000" />
       <workItem from="1536584604709" duration="4823000" />
-      <workItem from="1536648064300" duration="6810000" />
+      <workItem from="1536648064300" duration="8762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14942000" />
+    <option name="totallyTimeSpent" value="16894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -286,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Public/Slideshow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="494">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
