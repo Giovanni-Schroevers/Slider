@@ -1,9 +1,9 @@
 'use strict';
 
 const SOURCE = document.querySelector(".slide__img");
-var image = 1;
-var timer = true;
-var slideshow;
+let image = 1;
+let timer = true;
+let slideshow;
 
 const nextImage = () => {
     if(image < 4 && image > 0) {
